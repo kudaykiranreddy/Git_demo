@@ -5,7 +5,7 @@ public class Test2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String game = "Cricket";
-		if(game == "Cricket" && game != "Crickets")
+		if(game == "Cricket" && game != "Cricketers")
 			System.out.println("Playing game");
 
 	}
